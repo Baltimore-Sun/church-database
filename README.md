@@ -4,7 +4,7 @@ This database identifies 309 individuals connected to the Catholic Church and Ma
 
 As a public service, this database is available to all readers. To support our journalism, please [consider subscribing](https://subscription.baltimoresun.com/) to baltimoresun.com.
 
-line for csv
+[maryland-catholic-church-abuse-database.csv](maryland-catholic-church-abuse-database.csv)
 
 The Sun’s database publishes together for the first time 108 names that were not on the archdiocese's list when the database was published and that are not in the attorney general's report. These names were among more than 800 provided to The Sun by a researcher who independently tracked people connected to the Catholic Church and Maryland or a diocese with a footprint in Maryland and who had been accused of abuse. Reporters attempted to contact all 55 living people whose names The Sun reviewed.
 
